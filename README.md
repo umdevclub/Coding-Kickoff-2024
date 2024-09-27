@@ -18,13 +18,11 @@ Here are the basic commands that you will be introduced to:
     - git stash
     - git status 
     - git log
-    - git rebase
     - git revert
     - git reset
 
 Other useful git things to know:
 
-### Forking
 ### Good commit message practices
 ### Good git workflow
 ### Pull Request/Merge Request
